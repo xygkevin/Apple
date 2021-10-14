@@ -1,0 +1,7 @@
+*.xcuserstate
+
+*.xcbkptlist
+
+*.xcscheme
+
+xcuserdata/

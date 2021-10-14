@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "962394d8b035a7eeb94369c2670da7fc"
+build_time: [537857740, 337362000]
+inputs:
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HPACK.swift": [537857568, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTP11Request.swift": [537857568, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTP11Response.swift": [537857568, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTP2.swift": [537857568, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTPServer.swift": [537857568, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTPServerEx.swift": [537857570, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTPServer-2.0.9/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [537857570, 0]

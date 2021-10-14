@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "b40942ff5810d74b15587565779f2c9e"
+build_time: [537857738, 567073000]
+inputs:
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectNet-2.0.5/Sources/Net.swift": [537857695, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectNet-2.0.5/Sources/NetEvent.swift": [537857695, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectNet-2.0.5/Sources/NetNamedPipe.swift": [537857696, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectNet-2.0.5/Sources/NetTCP.swift": [537857696, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectNet-2.0.5/Sources/NetTCPSSL.swift": [537857696, 0]

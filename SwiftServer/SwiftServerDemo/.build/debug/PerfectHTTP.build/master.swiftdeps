@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "9ed9414af8afd058890073f7c65840bb"
+build_time: [537857739, 510765000]
+inputs:
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/HTTPFilter.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/HTTPHeaders.swift": [537857574, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/HTTPMethod.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/HTTPRequest.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/HTTPResponse.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/MimeReader.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/MimeType.swift": [537857574, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/Routing.swift": [537857572, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectHTTP-2.0.7/Sources/StaticFileHandler.swift": [537857574, 0]

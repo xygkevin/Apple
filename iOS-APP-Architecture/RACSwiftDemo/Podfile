@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform = :ios, '10.0'
+target 'RACSwiftDemo' do 
+use_frameworks!
+pod 'ReactiveCocoa', '~> 11.1.0'
+pod 'ReactiveObjCBridge', '~> 6.0.0'
+pod 'SnapKit', '~> 5.0.0'
+end

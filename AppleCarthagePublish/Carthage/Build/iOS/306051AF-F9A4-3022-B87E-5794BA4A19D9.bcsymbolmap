@@ -1,0 +1,91 @@
+BCSymbolMap Version: 2.0
++[SMCallTrace start]
++[SMCallTrace startWithMaxDepth:]
++[SMCallTrace startWithMinCost:]
++[SMCallTrace startWithMaxDepth:minCost:]
++[SMCallTrace stop]
++[SMCallTrace save]
++[SMCallTrace stopSaveAndClean]
++[SMCallTrace appendRecord:to:]
++[SMCallTrace loadRecords]
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/SMLagMonitor/SMCallTrace.m
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish
+___smCallTraceStart_block_invoke
+_release_thread_call_stack
+__rebind_symbols_for_image
+_perform_rebinding_with_section
+_hook_Objc_msgSend
+__call_record_enabled
+_smCallTraceStart.onceToken
+___block_descriptor_tmp
+___block_literal_global
+__thread_key
+_orig_objc_msgSend
+__min_time_cost
+__max_call_depth
+__smRecordNum
+__smCallRecords
+__smRecordAlloc
+__rebindings_head
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/SMLagMonitor/SMCallTraceCore.c
+hook_Objc_msgSend
+perform_rebinding_with_section
+_rebind_symbols_for_image
+rebind_symbols_for_image
+smClearCallRecords
+smGetCallRecords
+smCallConfigMaxDepth
+smCallConfigMinTime
+smCallTraceStop
+release_thread_call_stack
+__smCallTraceStart_block_invoke
+fish_rebind_symbols
+prepend_rebindings
+smCallTraceStart
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/usr/include/dispatch/once.h
+after_objc_msgSend
+pop_call_record
+get_thread_call_stack
+before_objc_msgSend
+push_call_record
+-[SMCallTraceTimeCostModel des]
+-[SMCallTraceTimeCostModel className]
+-[SMCallTraceTimeCostModel setClassName:]
+-[SMCallTraceTimeCostModel methodName]
+-[SMCallTraceTimeCostModel setMethodName:]
+-[SMCallTraceTimeCostModel isClassMethod]
+-[SMCallTraceTimeCostModel setIsClassMethod:]
+-[SMCallTraceTimeCostModel timeCost]
+-[SMCallTraceTimeCostModel setTimeCost:]
+-[SMCallTraceTimeCostModel callDepth]
+-[SMCallTraceTimeCostModel setCallDepth:]
+-[SMCallTraceTimeCostModel path]
+-[SMCallTraceTimeCostModel setPath:]
+-[SMCallTraceTimeCostModel lastCall]
+-[SMCallTraceTimeCostModel setLastCall:]
+-[SMCallTraceTimeCostModel frequency]
+-[SMCallTraceTimeCostModel setFrequency:]
+-[SMCallTraceTimeCostModel subCosts]
+-[SMCallTraceTimeCostModel setSubCosts:]
+-[SMCallTraceTimeCostModel .cxx_destruct]
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._callDepth
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._timeCost
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._isClassMethod
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._className
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._methodName
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._path
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._lastCall
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._frequency
+_OBJC_IVAR_$_SMCallTraceTimeCostModel._subCosts
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/SMLagMonitor/SMCallTraceTimeCostModel.m
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/SMLagMonitor/SMCallTraceTimeCostModel.h
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/SMLagMonitor/SMCallLib.m
++[QWLoadableManager run]
++[QWLoadableManager filter:]
+_QWLoadableRun
+_QWLoadableFunctionCallbackImpl
+/Users/uwei/GitHub/forwardto9/AppleCarthagePublish/test/QWLoadableManager.m
+QWLoadableFunctionCallbackImpl
+QWLoadableRun
+/Users/uwei/Library/Developer/Xcode/DerivedData/AppleCarthagePublish-dkysbafzzqeyrzccblssslkivqvh/Build/Intermediates.noindex/ArchiveIntermediates/AppleCarthagePublishCarthageFramework/IntermediateBuildFilesPath/AppleCarthagePublish.build/Release-iphoneos/AppleCarthagePublish CarthageFramework.build/DerivedSources/AppleCarthagePublish_CarthageFramework_vers.c

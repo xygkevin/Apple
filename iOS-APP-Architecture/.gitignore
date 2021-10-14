@@ -1,0 +1,16 @@
+*.xcuserdatad/
+!contents.xcworkspacedata
+xcuserdata/
+xcshareddata/
+!xcschemes/
+!xcbaselines/
+
+
+#pods
+Pod/
+
+.DS_Store
+Pods/
+Podfile.lock
+!Podfile
+!Podfile.lockOSInjectionProject/

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectThread-2.0.4/Sources/Threading.swift": {
+    "dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/Threading.d",
+    "object": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/Threading.swiftdeps"
+  },
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectThread-2.0.4/Sources/ThreadQueue.swift": {
+    "dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  }
+}

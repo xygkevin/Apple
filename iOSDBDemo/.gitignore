@@ -1,0 +1,10 @@
+*.xcuserstate
+
+*.xcscheme
+
+xcuserdata/
+
+*.xcscmblueprint
+
+Realm.framework
+

@@ -1,0 +1,8 @@
+
+*.xcuserstate
+
+*.xcbkptlist
+
+*.xcscheme
+
+TestAutoTrack/TestAutoTrack.xcodeproj/xcuserdata/uwei.xcuserdatad/xcschemes/xcschememanagement.plist

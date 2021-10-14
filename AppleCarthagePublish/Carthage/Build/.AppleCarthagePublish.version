@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "10bee9caec1a2328d8324b6ca42f95da586bb858",
+  "iOS" : [
+    {
+      "name" : "AppleCarthagePublish_CarthageFramework",
+      "hash" : "9f94e3c2d740bdf02608b3865bfb7ac240dfbc782065467976671e4c76aae2a0"
+    }
+  ]
+}

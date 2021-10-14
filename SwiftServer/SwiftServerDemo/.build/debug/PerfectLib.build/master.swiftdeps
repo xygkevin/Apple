@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "025ed115748a910dd3074f6992c58fa3"
+build_time: [537857735, 62249000]
+inputs:
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Bytes.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Dir.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/File.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/JSONConvertible.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Log.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/PerfectError.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/PerfectServer.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/SwiftCompatibility.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/SysProcess.swift": [537857577, 0]
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Packages/PerfectLib-2.0.5/Sources/PerfectLib/Utilities.swift": [537857577, 0]

@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:ChainCodeDemo"
+      name = "ChainCodeDemo">
+      <Group
+         location = "group:ChainCodeDemo"
+         name = "ChainCodeDemo">
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ChainCodeDemo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Design Pattern"
+      name = "Design Pattern">
+      <Group
+         location = "group:StrategyPatternDemo"
+         name = "StrategyPatternDemo">
+         <Group
+            location = "group:StrategyPatternDemo"
+            name = "StrategyPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:StrategyPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:ChainOfResPatternDemo"
+         name = "ChainOfResPatternDemo">
+         <Group
+            location = "group:ChainOfResPatternDemo"
+            name = "ChainOfResPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:ChainOfResPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:CommandPatternDemo"
+         name = "CommandPatternDemo">
+         <FileRef
+            location = "group:CommandPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:CommandPatternDemo"
+            name = "CommandPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:DecoratorPatternDemo"
+         name = "DecoratorPatternDemo">
+         <Group
+            location = "group:DecoratorPatternDemo"
+            name = "DecoratorPatternDemo">
+            <FileRef
+               location = "group:SourceClass.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DecoratorClass.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SourceProtocol.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:DecoratorPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:BridgePatterDemo"
+         name = "BridgePatterDemo">
+         <Group
+            location = "group:BridgePatterDemo"
+            name = "BridgePatterDemo">
+            <FileRef
+               location = "group:Bridge.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ConcreteBridge.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Protocol.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ClassB.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ClassA.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:BridgePatterDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:VisitorPatternDemo"
+         name = "VisitorPatternDemo">
+         <FileRef
+            location = "group:VisitorPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:VisitorPatternDemo"
+            name = "VisitorPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:AdapterPatternDemo"
+         name = "AdapterPatternDemo">
+         <Group
+            location = "group:AdapterPatternDemo"
+            name = "AdapterPatternDemo">
+            <FileRef
+               location = "group:Source.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Wrapper.swift">
+            </FileRef>
+            <FileRef
+               location = "group:WrapperSuper.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TargetableProtocol.swift">
+            </FileRef>
+            <FileRef
+               location = "group:WrapperSub1.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Adapter.swift">
+            </FileRef>
+            <FileRef
+               location = "group:WrapperSub2.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AdapterPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:InterpreterPatternDemo"
+         name = "InterpreterPatternDemo">
+         <Group
+            location = "group:InterpreterPatternDemo"
+            name = "InterpreterPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:InterpreterPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:BuilderPatterDemo"
+         name = "BuilderPatterDemo">
+         <Group
+            location = "group:BuilderPatterDemo"
+            name = "BuilderPatterDemo">
+            <FileRef
+               location = "group:BMW.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Engine.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Car.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Tire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CarBuilder.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Benzier.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CarFrame.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Director.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:BuilderPatterDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:ObserverPatternDemo"
+         name = "ObserverPatternDemo">
+         <Group
+            location = "group:ObserverPatternDemo"
+            name = "ObserverPatternDemo">
+            <FileRef
+               location = "group:Observer2.h">
+            </FileRef>
+            <FileRef
+               location = "group:ConcreteSubject.m">
+            </FileRef>
+            <FileRef
+               location = "group:SubjectProtocol.h">
+            </FileRef>
+            <FileRef
+               location = "group:Observer1.h">
+            </FileRef>
+            <FileRef
+               location = "group:Subject.m">
+            </FileRef>
+            <FileRef
+               location = "group:Observer2.m">
+            </FileRef>
+            <FileRef
+               location = "group:main.m">
+            </FileRef>
+            <FileRef
+               location = "group:ConcreteSubject.h">
+            </FileRef>
+            <FileRef
+               location = "group:Observer1.m">
+            </FileRef>
+            <FileRef
+               location = "group:ObserverProtocol.h">
+            </FileRef>
+            <FileRef
+               location = "group:Subject.h">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:ObserverPatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:ProxyPatternDemo"
+         name = "ProxyPatternDemo">
+         <FileRef
+            location = "group:ProxyPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:ProxyPatternDemo"
+            name = "ProxyPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:FactoryPatternDemo"
+         name = "FactoryPatternDemo">
+         <FileRef
+            location = "group:FactoryPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:FactoryPatternDemo"
+            name = "FactoryPatternDemo">
+            <FileRef
+               location = "group:WhiteCrowFactory.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Sparrow.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Bird.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CrowProtocol.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Parrot.swift">
+            </FileRef>
+            <FileRef
+               location = "group:BlackCrowFactory.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CrowProviderProtocol.swift">
+            </FileRef>
+            <FileRef
+               location = "group:BlackCrow.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+            <FileRef
+               location = "group:WhiteCrow.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Factory.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:MementoPatterDemo"
+         name = "MementoPatterDemo">
+         <FileRef
+            location = "group:MementoPatterDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:MementoPatterDemo"
+            name = "MementoPatterDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:TemplatePatternDemo"
+         name = "TemplatePatternDemo">
+         <FileRef
+            location = "group:TemplatePatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:TemplatePatternDemo"
+            name = "TemplatePatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:SingletonPatterDemo"
+         name = "SingletonPatterDemo">
+         <FileRef
+            location = "group:SingletonPatterDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:SingletonPatterDemo"
+            name = "SingletonPatterDemo">
+            <FileRef
+               location = "group:Singleton.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:FacadePatternDemo"
+         name = "FacadePatternDemo">
+         <FileRef
+            location = "group:FacadePatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:FacadePatternDemo"
+            name = "FacadePatternDemo">
+            <FileRef
+               location = "group:Disk.swift">
+            </FileRef>
+            <FileRef
+               location = "group:FacadeClass.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Memory.swift">
+            </FileRef>
+            <FileRef
+               location = "group:CPU.swift">
+            </FileRef>
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:IteratorPatternDemo"
+         name = "IteratorPatternDemo">
+         <FileRef
+            location = "group:IteratorPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:IteratorPatternDemo"
+            name = "IteratorPatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:StatePatternDemo"
+         name = "StatePatternDemo">
+         <Group
+            location = "group:StatePatternDemo"
+            name = "StatePatternDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:StatePatternDemo.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:FlyWeightPatternDemo"
+         name = "FlyWeightPatternDemo">
+         <FileRef
+            location = "group:FlyWeightPatternDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:FlyWeightPatternDemo"
+            name = "FlyWeightPatternDemo">
+            <FileRef
+               location = "group:FlyWeightFactory.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:FlyWeight.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:ConcreteFlyWeight.hpp">
+            </FileRef>
+            <FileRef
+               location = "group:ConcreteFlyWeight.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:FlyWeight.hpp">
+            </FileRef>
+            <FileRef
+               location = "group:FlyWeightFactory.hpp">
+            </FileRef>
+            <FileRef
+               location = "group:main.cpp">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:MediatorPatterDemo"
+         name = "MediatorPatterDemo">
+         <FileRef
+            location = "group:MediatorPatterDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:MediatorPatterDemo"
+            name = "MediatorPatterDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:CompositePatterDemo"
+         name = "CompositePatterDemo">
+         <FileRef
+            location = "group:CompositePatterDemo.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:CompositePatterDemo"
+            name = "CompositePatterDemo">
+            <FileRef
+               location = "group:main.swift">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
+      location = "group:MVVMPatternDemo"
+      name = "MVVMPatternDemo">
+      <Group
+         location = "group:MVVMPatternDemo"
+         name = "MVVMPatternDemo">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:MVVMViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:MVVMPatternDemo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:ReactiveCocoaDemo"
+      name = "ReactiveCocoaDemo">
+      <Group
+         location = "group:ReactiveCocoaDemo"
+         name = "ReactiveCocoaDemo">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Pods"
+         name = "Pods">
+         <FileRef
+            location = "group:Pods.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:Result"
+            name = "Result">
+            <Group
+               location = "group:Result"
+               name = "Result">
+               <FileRef
+                  location = "group:ResultType.swift">
+               </FileRef>
+               <FileRef
+                  location = "group:Result.swift">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:LICENSE">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Target Support Files"
+            name = "Target Support Files">
+            <Group
+               location = "group:Result"
+               name = "Result">
+               <FileRef
+                  location = "group:Result.modulemap">
+               </FileRef>
+               <FileRef
+                  location = "group:Result.xcconfig">
+               </FileRef>
+               <FileRef
+                  location = "group:Result-prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:Result-umbrella.h">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:Result-dummy.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Pods-ReactiveCocoaDemo"
+               name = "Pods-ReactiveCocoaDemo">
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-acknowledgements.markdown">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo.debug.xcconfig">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo.modulemap">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-dummy.m">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-umbrella.h">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo.release.xcconfig">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-frameworks.sh">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-resources.sh">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-ReactiveCocoaDemo-acknowledgements.plist">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:ReactiveCocoa"
+               name = "ReactiveCocoa">
+               <FileRef
+                  location = "group:ReactiveCocoa-dummy.m">
+               </FileRef>
+               <FileRef
+                  location = "group:ReactiveCocoa.modulemap">
+               </FileRef>
+               <FileRef
+                  location = "group:ReactiveCocoa.xcconfig">
+               </FileRef>
+               <FileRef
+                  location = "group:ReactiveCocoa-umbrella.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ReactiveCocoa-prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:Info.plist">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Manifest.lock">
+         </FileRef>
+         <Group
+            location = "group:ReactiveCocoa"
+            name = "ReactiveCocoa">
+            <FileRef
+               location = "group:LICENSE.md">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+            <Group
+               location = "group:ReactiveCocoa"
+               name = "ReactiveCocoa">
+               <FileRef
+                  location = "group:ReactiveCocoa.h">
+               </FileRef>
+               <Group
+                  location = "group:Swift"
+                  name = "Swift">
+                  <FileRef
+                     location = "group:Observer.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TupleExtensions.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Property.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Event.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ObjectiveCBridging.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SignalProducer.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:FoundationExtensions.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Disposable.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Bag.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Flatten.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Atomic.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Scheduler.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Signal.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Action.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Optional.swift">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Objective-C"
+                  name = "Objective-C">
+                  <FileRef
+                     location = "group:NSFileHandle+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSDictionary+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSNotificationCenter+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITextField+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIStepper+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriptionScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISegmentedControl+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACStringSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOProxy.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACDescription.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACQueueScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITableViewHeaderFooterView+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITableViewCell+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISwitch+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTargetQueueScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSUserDefaults+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACPassthroughSubscriber.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSEnumerator+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACIndexSetSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScopedDisposable.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITextView+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACStream.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignal+Operations.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISlider+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACReturnSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIRefreshControl+RACCommandSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTestScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSSet+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACGroupedSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSInvocation+RACTypeParsing.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicPropertySuperclass.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTupleSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MKAnnotationView+RACSignalSupport.m">
+                  </FileRef>
+                  <Group
+                     location = "group:extobjc"
+                     name = "extobjc">
+                     <FileRef
+                        location = "group:EXTRuntimeExtensions.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:metamacros.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:EXTRuntimeExtensions.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:EXTScope.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:EXTKeyPathCoding.h">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:RACChannel.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIGestureRecognizer+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIAlertView+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACValueTransformer.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriber+Private.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACObjCRuntime.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignalSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACUnit.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACCompoundDisposable.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEagerSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACUnarySequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEmptySequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDelegateProxy.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriber.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACSelectorSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACKVOWrapper.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubject.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACLifting.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACCompoundDisposableProvider.d">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSerialDisposable.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSURLConnection+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOTrampoline.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriptingAssignmentTrampoline.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSOrderedSet+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIActionSheet+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIButton+RACCommandSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScheduler+Subclass.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIImagePickerController+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDisposable.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACReplaySubject.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIControl+RACSignalSupportPrivate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACDeallocating.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACKeyPathUtilities.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACErrorSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIControl+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACArraySequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACBlockTrampoline.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSIndexSet+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOChannel.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTuple.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACPropertySubscribing.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACImmediateScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACBehaviorSubject.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSData+RACSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACMulticastConnection.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACMulticastConnection+Private.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEmptySignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignalProvider.d">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIBarButtonItem+RACCommandSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UICollectionReusableView+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIDatePicker+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACCommand.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEvent.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScopedDisposable.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSEnumerator+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACIndexSetSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACPassthroughSubscriber.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSUserDefaults+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITableViewCell+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISwitch+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTargetQueueScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITableViewHeaderFooterView+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACQueueScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACDescription.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOProxy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISegmentedControl+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACStringSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIStepper+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriptionScheduler.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSDictionary+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSNotificationCenter+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITextField+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSFileHandle+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACObjCRuntime.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACScheduler+Private.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIAlertView+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACValueTransformer.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACChannel.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIGestureRecognizer+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTupleSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MKAnnotationView+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSInvocation+RACTypeParsing.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicPropertySuperclass.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACGroupedSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSSet+RACSequenceAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTestScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIRefreshControl+RACCommandSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACReturnSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACStream.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UITextView+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignal+Operations.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UISlider+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACErrorSignal.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIControl+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACArraySequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACBlockTrampoline.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACKeyPathUtilities.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACDeallocating.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIControl+RACSignalSupportPrivate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACReplaySubject.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDisposable.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIButton+RACCommandSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIImagePickerController+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACQueueScheduler+Subclass.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSOrderedSet+RACSequenceAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIActionSheet+RACSignalSupport.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSerialDisposable.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSURLConnection+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOTrampoline.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriptingAssignmentTrampoline.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSString+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACLifting.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubject.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACKVOWrapper.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ReactiveCocoa-Bridging-Header.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACSelectorSignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSubscriber.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDynamicSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACDelegateProxy.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEmptySequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACUnarySequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEagerSequence.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACUnit.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACSignalSequence.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACCompoundDisposable.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIDatePicker+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACCommand.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEvent.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UICollectionReusableView+RACSignalSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACEmptySignal.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIBarButtonItem+RACCommandSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSData+RACSupport.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACMulticastConnection.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACImmediateScheduler.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACBehaviorSubject.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACStream+Private.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSObject+RACPropertySubscribing.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACTuple.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:RACKVOChannel.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSIndexSet+RACSequenceAdditions.m">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:ReactiveCocoaDemo.xcworkspace">
+      </FileRef>
+      <FileRef
+         location = "group:Podfile">
+      </FileRef>
+      <FileRef
+         location = "group:ReactiveCocoaDemo.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Podfile.lock">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:VIPER"
+      name = "VIPER">
+      <FileRef
+         location = "group:VIPER TODO.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:VIPER TODOTests"
+         name = "VIPER TODOTests">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:VIPER TODOTests-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:VIPER_TODOTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:VTDCalendarTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:VTDListViewTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:VTDRelativeDateTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:VTDListPresenterTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:VTDListInteractorTests.m">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:VIPER TODO"
+         name = "VIPER TODO">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:VIPER TODO-Info.plist">
+         </FileRef>
+         <Group
+            location = "group:Classes"
+            name = "Classes">
+            <FileRef
+               location = "group:VTDAppDelegate.m">
+            </FileRef>
+            <FileRef
+               location = "group:VTDAppDependencies.h">
+            </FileRef>
+            <Group
+               location = "group:Common"
+               name = "Common">
+               <FileRef
+                  location = "group:VTDClock.h">
+               </FileRef>
+               <FileRef
+                  location = "group:VTDDeviceClock.m">
+               </FileRef>
+               <FileRef
+                  location = "group:VTDDeviceClock.h">
+               </FileRef>
+               <Group
+                  location = "group:Model"
+                  name = "Model">
+                  <FileRef
+                     location = "group:VTDTodoItem.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:VTDNearTermDateRelation.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:VTDTodoItem.h">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:View"
+                  name = "View">
+                  <FileRef
+                     location = "group:VTDRootWireframe.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:VTDRootWireframe.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Categories"
+                  name = "Categories">
+                  <FileRef
+                     location = "group:UIImage+ImageEffects.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+HOM.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSCalendar+CalendarAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSArray+HOM.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIImage+ImageEffects.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:NSCalendar+CalendarAdditions.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Store"
+                  name = "Store">
+                  <FileRef
+                     location = "group:VTDCoreDataStore.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TODO.xcdatamodeld">
+                  </FileRef>
+                  <FileRef
+                     location = "group:VTDCoreDataStore.m">
+                  </FileRef>
+                  <Group
+                     location = "group:Entities"
+                     name = "Entities">
+                     <FileRef
+                        location = "group:VTDManagedTodoItem.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:VTDManagedTodoItem.m">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:VTDAppDelegate.h">
+            </FileRef>
+            <Group
+               location = "group:Modules"
+               name = "Modules">
+               <Group
+                  location = "group:Add"
+                  name = "Add">
+                  <Group
+                     location = "group:Module Interface"
+                     name = "Module Interface">
+                     <FileRef
+                        location = "group:VTDAddModuleInterface.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:VTDAddModuleDelegateInterface.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Application Logic"
+                     name = "Application Logic">
+                     <Group
+                        location = "group:Manager"
+                        name = "Manager">
+                        <FileRef
+                           location = "group:VTDAddDataManager.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddDataManager.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Interactor"
+                        name = "Interactor">
+                        <FileRef
+                           location = "group:VTDAddInteractor.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddInteractor.m">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:User Interface"
+                     name = "User Interface">
+                     <Group
+                        location = "group:Transition"
+                        name = "Transition">
+                        <FileRef
+                           location = "group:VTDAddPresentationTransition.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddDismissalTransition.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddPresentationTransition.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddDismissalTransition.m">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Presenter"
+                        name = "Presenter">
+                        <FileRef
+                           location = "group:VTDAddPresenter.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddPresenter.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Wireframe"
+                        name = "Wireframe">
+                        <FileRef
+                           location = "group:VTDAddWireframe.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddWireframe.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:View"
+                        name = "View">
+                        <FileRef
+                           location = "group:VTDAddViewInterface.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddViewController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDAddViewController.m">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:List"
+                  name = "List">
+                  <Group
+                     location = "group:Module Interface"
+                     name = "Module Interface">
+                     <FileRef
+                        location = "group:VTDListModuleInterface.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Application Logic"
+                     name = "Application Logic">
+                     <Group
+                        location = "group:Manager"
+                        name = "Manager">
+                        <FileRef
+                           location = "group:VTDListDataManager.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListDataManager.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Interactor"
+                        name = "Interactor">
+                        <FileRef
+                           location = "group:VTDListInteractorIO.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListInteractor.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingItem.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListInteractor.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingItem.m">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:User Interface"
+                     name = "User Interface">
+                     <Group
+                        location = "group:Presenter"
+                        name = "Presenter">
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayItem.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayData.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListPresenter.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplaySection.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayDataCollector.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayData.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayItem.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplaySection.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListPresenter.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDUpcomingDisplayDataCollector.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Wireframe"
+                        name = "Wireframe">
+                        <FileRef
+                           location = "group:VTDListWireframe.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListWireframe.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:View"
+                        name = "View">
+                        <FileRef
+                           location = "group:VTDListViewInterface.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListViewController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:VTDListViewController.h">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:VTDAppDependencies.m">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:notes.imageset"
+               name = "notes.imageset">
+               <FileRef
+                  location = "group:notes.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:notes@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:month.imageset"
+               name = "month.imageset">
+               <FileRef
+                  location = "group:month.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:month@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:calendar.imageset"
+               name = "calendar.imageset">
+               <FileRef
+                  location = "group:calendar@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:calendar.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:paper.imageset"
+               name = "paper.imageset">
+               <FileRef
+                  location = "group:paper.png">
+               </FileRef>
+               <FileRef
+                  location = "group:paper@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:line.imageset"
+               name = "line.imageset">
+               <FileRef
+                  location = "group:line@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:line.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Icon@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:alarm.imageset"
+               name = "alarm.imageset">
+               <FileRef
+                  location = "group:alarm@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:alarm.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:check.imageset"
+               name = "check.imageset">
+               <FileRef
+                  location = "group:check.png">
+               </FileRef>
+               <FileRef
+                  location = "group:check@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:empty.imageset"
+               name = "empty.imageset">
+               <FileRef
+                  location = "group:empty.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:empty@2x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:LaunchImage.launchimage"
+               name = "LaunchImage.launchimage">
+               <FileRef
+                  location = "group:LaunchImage@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Splash-4@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:Splash-4.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:circle.imageset"
+               name = "circle.imageset">
+               <FileRef
+                  location = "group:circle@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:circle.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:VIPER TODO-Prefix.pch">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:OCMock"
+         name = "OCMock">
+         <FileRef
+            location = "group:libOCMock.a">
+         </FileRef>
+         <Group
+            location = "group:OCMock"
+            name = "OCMock">
+            <FileRef
+               location = "group:OCMockObject.h">
+            </FileRef>
+            <FileRef
+               location = "group:OCMock.h">
+            </FileRef>
+            <FileRef
+               location = "group:NSNotificationCenter+OCMAdditions.h">
+            </FileRef>
+            <FileRef
+               location = "group:OCMockRecorder.h">
+            </FileRef>
+            <FileRef
+               location = "group:OCMConstraint.h">
+            </FileRef>
+            <FileRef
+               location = "group:OCMArg.h">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>

@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3CBB30DF1C9FEFFC003FA851 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CBB30DE1C9FEFFC003FA851 /* main.cpp */; };
+		3CBB30E81C9FF16B003FA851 /* FlyWeight.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CBB30E61C9FF16B003FA851 /* FlyWeight.cpp */; };
+		3CBB30EB1C9FF1FE003FA851 /* ConcreteFlyWeight.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CBB30E91C9FF1FE003FA851 /* ConcreteFlyWeight.cpp */; };
+		3CBB30EE1C9FF497003FA851 /* FlyWeightFactory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CBB30EC1C9FF497003FA851 /* FlyWeightFactory.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3CBB30D91C9FEFFC003FA851 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3CBB30DB1C9FEFFC003FA851 /* FlyWeightPatternDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FlyWeightPatternDemo; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CBB30DE1C9FEFFC003FA851 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3CBB30E61C9FF16B003FA851 /* FlyWeight.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FlyWeight.cpp; sourceTree = "<group>"; };
+		3CBB30E71C9FF16B003FA851 /* FlyWeight.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FlyWeight.hpp; sourceTree = "<group>"; };
+		3CBB30E91C9FF1FE003FA851 /* ConcreteFlyWeight.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ConcreteFlyWeight.cpp; sourceTree = "<group>"; };
+		3CBB30EA1C9FF1FE003FA851 /* ConcreteFlyWeight.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = ConcreteFlyWeight.hpp; sourceTree = "<group>"; };
+		3CBB30EC1C9FF497003FA851 /* FlyWeightFactory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FlyWeightFactory.cpp; sourceTree = "<group>"; };
+		3CBB30ED1C9FF497003FA851 /* FlyWeightFactory.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = FlyWeightFactory.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3CBB30D81C9FEFFC003FA851 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3CBB30D21C9FEFFC003FA851 = {
+			isa = PBXGroup;
+			children = (
+				3CBB30DD1C9FEFFC003FA851 /* FlyWeightPatternDemo */,
+				3CBB30DC1C9FEFFC003FA851 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3CBB30DC1C9FEFFC003FA851 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3CBB30DB1C9FEFFC003FA851 /* FlyWeightPatternDemo */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3CBB30DD1C9FEFFC003FA851 /* FlyWeightPatternDemo */ = {
+			isa = PBXGroup;
+			children = (
+				3CBB30DE1C9FEFFC003FA851 /* main.cpp */,
+				3CBB30EC1C9FF497003FA851 /* FlyWeightFactory.cpp */,
+				3CBB30ED1C9FF497003FA851 /* FlyWeightFactory.hpp */,
+				3CBB30E91C9FF1FE003FA851 /* ConcreteFlyWeight.cpp */,
+				3CBB30EA1C9FF1FE003FA851 /* ConcreteFlyWeight.hpp */,
+				3CBB30E61C9FF16B003FA851 /* FlyWeight.cpp */,
+				3CBB30E71C9FF16B003FA851 /* FlyWeight.hpp */,
+			);
+			path = FlyWeightPatternDemo;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CBB30DA1C9FEFFC003FA851 /* FlyWeightPatternDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3CBB30E21C9FEFFC003FA851 /* Build configuration list for PBXNativeTarget "FlyWeightPatternDemo" */;
+			buildPhases = (
+				3CBB30D71C9FEFFC003FA851 /* Sources */,
+				3CBB30D81C9FEFFC003FA851 /* Frameworks */,
+				3CBB30D91C9FEFFC003FA851 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlyWeightPatternDemo;
+			productName = FlyWeightPatternDemo;
+			productReference = 3CBB30DB1C9FEFFC003FA851 /* FlyWeightPatternDemo */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3CBB30D31C9FEFFC003FA851 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = forwardto9;
+				TargetAttributes = {
+					3CBB30DA1C9FEFFC003FA851 = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 3CBB30D61C9FEFFC003FA851 /* Build configuration list for PBXProject "FlyWeightPatternDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3CBB30D21C9FEFFC003FA851;
+			productRefGroup = 3CBB30DC1C9FEFFC003FA851 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CBB30DA1C9FEFFC003FA851 /* FlyWeightPatternDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3CBB30D71C9FEFFC003FA851 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CBB30EE1C9FF497003FA851 /* FlyWeightFactory.cpp in Sources */,
+				3CBB30EB1C9FF1FE003FA851 /* ConcreteFlyWeight.cpp in Sources */,
+				3CBB30DF1C9FEFFC003FA851 /* main.cpp in Sources */,
+				3CBB30E81C9FF16B003FA851 /* FlyWeight.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3CBB30E01C9FEFFC003FA851 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		3CBB30E11C9FEFFC003FA851 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3CBB30E31C9FEFFC003FA851 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3CBB30E41C9FEFFC003FA851 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CBB30D61C9FEFFC003FA851 /* Build configuration list for PBXProject "FlyWeightPatternDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CBB30E01C9FEFFC003FA851 /* Debug */,
+				3CBB30E11C9FEFFC003FA851 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3CBB30E21C9FEFFC003FA851 /* Build configuration list for PBXNativeTarget "FlyWeightPatternDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CBB30E31C9FEFFC003FA851 /* Debug */,
+				3CBB30E41C9FEFFC003FA851 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3CBB30D31C9FEFFC003FA851 /* Project object */;
+}

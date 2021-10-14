@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3C702DB71C96FA5600D4747B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DB61C96FA5600D4747B /* main.swift */; };
+		3C702DBE1C96FA9200D4747B /* Engine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DBD1C96FA9200D4747B /* Engine.swift */; };
+		3C702DC01C96FAE100D4747B /* Tire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DBF1C96FAE100D4747B /* Tire.swift */; };
+		3C702DC21C96FB3700D4747B /* CarFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DC11C96FB3700D4747B /* CarFrame.swift */; };
+		3C702DC41C96FB6000D4747B /* CarBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DC31C96FB6000D4747B /* CarBuilder.swift */; };
+		3C702DC61C96FC7200D4747B /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DC51C96FC7200D4747B /* Car.swift */; };
+		3C702DCA1C96FF2B00D4747B /* Director.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DC91C96FF2B00D4747B /* Director.swift */; };
+		3C702DCE1C971D0200D4747B /* BMW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DCD1C971D0200D4747B /* BMW.swift */; };
+		3C702DD01C97240300D4747B /* Benzier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C702DCF1C97240300D4747B /* Benzier.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3C702DB11C96FA5600D4747B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3C702DB31C96FA5600D4747B /* BuilderPatterDemo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BuilderPatterDemo; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C702DB61C96FA5600D4747B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3C702DBD1C96FA9200D4747B /* Engine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Engine.swift; sourceTree = "<group>"; };
+		3C702DBF1C96FAE100D4747B /* Tire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tire.swift; sourceTree = "<group>"; };
+		3C702DC11C96FB3700D4747B /* CarFrame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarFrame.swift; sourceTree = "<group>"; };
+		3C702DC31C96FB6000D4747B /* CarBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarBuilder.swift; sourceTree = "<group>"; };
+		3C702DC51C96FC7200D4747B /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		3C702DC91C96FF2B00D4747B /* Director.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Director.swift; sourceTree = "<group>"; };
+		3C702DCD1C971D0200D4747B /* BMW.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BMW.swift; sourceTree = "<group>"; };
+		3C702DCF1C97240300D4747B /* Benzier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Benzier.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3C702DB01C96FA5600D4747B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3C702DAA1C96FA5600D4747B = {
+			isa = PBXGroup;
+			children = (
+				3C702DB51C96FA5600D4747B /* BuilderPatterDemo */,
+				3C702DB41C96FA5600D4747B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3C702DB41C96FA5600D4747B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3C702DB31C96FA5600D4747B /* BuilderPatterDemo */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3C702DB51C96FA5600D4747B /* BuilderPatterDemo */ = {
+			isa = PBXGroup;
+			children = (
+				3C702DB61C96FA5600D4747B /* main.swift */,
+				3C702DCF1C97240300D4747B /* Benzier.swift */,
+				3C702DCD1C971D0200D4747B /* BMW.swift */,
+				3C702DC51C96FC7200D4747B /* Car.swift */,
+				3C702DC91C96FF2B00D4747B /* Director.swift */,
+				3C702DC31C96FB6000D4747B /* CarBuilder.swift */,
+				3C702DBD1C96FA9200D4747B /* Engine.swift */,
+				3C702DBF1C96FAE100D4747B /* Tire.swift */,
+				3C702DC11C96FB3700D4747B /* CarFrame.swift */,
+			);
+			path = BuilderPatterDemo;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3C702DB21C96FA5600D4747B /* BuilderPatterDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3C702DBA1C96FA5600D4747B /* Build configuration list for PBXNativeTarget "BuilderPatterDemo" */;
+			buildPhases = (
+				3C702DAF1C96FA5600D4747B /* Sources */,
+				3C702DB01C96FA5600D4747B /* Frameworks */,
+				3C702DB11C96FA5600D4747B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BuilderPatterDemo;
+			productName = BuilderPatterDemo;
+			productReference = 3C702DB31C96FA5600D4747B /* BuilderPatterDemo */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3C702DAB1C96FA5600D4747B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = forwardto9;
+				TargetAttributes = {
+					3C702DB21C96FA5600D4747B = {
+						CreatedOnToolsVersion = 7.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 3C702DAE1C96FA5600D4747B /* Build configuration list for PBXProject "BuilderPatterDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3C702DAA1C96FA5600D4747B;
+			productRefGroup = 3C702DB41C96FA5600D4747B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3C702DB21C96FA5600D4747B /* BuilderPatterDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3C702DAF1C96FA5600D4747B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3C702DB71C96FA5600D4747B /* main.swift in Sources */,
+				3C702DBE1C96FA9200D4747B /* Engine.swift in Sources */,
+				3C702DD01C97240300D4747B /* Benzier.swift in Sources */,
+				3C702DCE1C971D0200D4747B /* BMW.swift in Sources */,
+				3C702DC61C96FC7200D4747B /* Car.swift in Sources */,
+				3C702DC21C96FB3700D4747B /* CarFrame.swift in Sources */,
+				3C702DCA1C96FF2B00D4747B /* Director.swift in Sources */,
+				3C702DC01C96FAE100D4747B /* Tire.swift in Sources */,
+				3C702DC41C96FB6000D4747B /* CarBuilder.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3C702DB81C96FA5600D4747B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3C702DB91C96FA5600D4747B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3C702DBB1C96FA5600D4747B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3C702DBC1C96FA5600D4747B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3C702DAE1C96FA5600D4747B /* Build configuration list for PBXProject "BuilderPatterDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3C702DB81C96FA5600D4747B /* Debug */,
+				3C702DB91C96FA5600D4747B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3C702DBA1C96FA5600D4747B /* Build configuration list for PBXNativeTarget "BuilderPatterDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3C702DBB1C96FA5600D4747B /* Debug */,
+				3C702DBC1C96FA5600D4747B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3C702DAB1C96FA5600D4747B /* Project object */;
+}

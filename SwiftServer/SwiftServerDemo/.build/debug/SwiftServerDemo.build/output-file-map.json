@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/master.swiftdeps"
+  },
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Sources/main.swift": {
+    "dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/main.d",
+    "object": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/main.swift.o",
+    "swiftmodule": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/main.swiftdeps"
+  },
+  "/Users/uwei/WorkSpace/Server/SwiftServerDemo/Sources/routeHandlers.swift": {
+    "dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/routeHandlers.d",
+    "object": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/routeHandlers.swift.o",
+    "swiftmodule": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/routeHandlers~partial.swiftmodule",
+    "swift-dependencies": "/Users/uwei/WorkSpace/Server/SwiftServerDemo/.build/debug/SwiftServerDemo.build/routeHandlers.swiftdeps"
+  }
+}
